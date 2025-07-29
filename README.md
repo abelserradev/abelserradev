@@ -8,12 +8,12 @@
 
 ###
 
-<h2 align="left">🔥 Sobre mí</h2>
+<h2 align="left">🔥¡Hola, comunidad tech! Soy <strong>Abel</strong> 👨‍💻🚀</h2>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> <strong>Abel</strong> - ¡Entusiasta, autodidacta y amante de los retos!<br>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> - ¡Entusiasta, autodidacta y amante de los retos!<br>
   <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyY/giphy.gif" width="25"> Creando soluciones desde 2018<br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Promotor de tecnología y aprendizaje continuo<br>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Promotor de tecnología y creador de código<br>
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="25"> Venezolano orgulloso 🇻🇪
 </p>
 
